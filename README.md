@@ -11,5 +11,14 @@ This repository showcases my project using Facebook's Segment Anything Model 2 (
 - **Masklet Refinement:** Fine-tuned the masklets to accurately track the climber across video frames.
 - **Zero-Shot Video Tracking:** Demonstrated the model's ability to perform effective object tracking without prior training on specific video data.
   
-# Results
+## Results
 The model performed impressively, accurately tracking the climber's movements throughout the video, even in challenging scenarios such as when other climbers came into view.
+
+
+
+https://github.com/user-attachments/assets/f43bbe92-31cd-4b63-b9d9-9a5f2bf7b21c
+
+
+
+## Skills
+Computer vision, Machine learning, Python programming, Data processing
