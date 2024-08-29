@@ -10,6 +10,9 @@ This repository showcases my project using Facebook's Segment Anything Model 2 (
 - **Input Points and Bounding Boxes:** Used to initialize the spatio-temporal masks around the climber.
 - **Masklet Refinement:** Fine-tuned the masklets to accurately track the climber across video frames.
 - **Zero-Shot Video Tracking:** Demonstrated the model's ability to perform effective object tracking without prior training on specific video data.
+
+## Running the code
+Run this Jupyter notebook: ./code/object_tracking_rock_climber.ipynb
   
 ## Results
 The model performed impressively, accurately tracking the climber's movements throughout the video, even in challenging scenarios such as when other climbers came into view.
