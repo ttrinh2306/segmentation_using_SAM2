@@ -1,5 +1,5 @@
 # Advanced Object Tracking: Rock Climber Detection Using SAM2
-This repository showcases my project using Facebook's Segment Anything Model 2 (SAM2) to track a rock climber in video footage. SAM2 is a cutting edge model for segmenting objects in both video and image data. In this project, I explored its capabilities by creating spatio-temporal masks, or ‘masklets,’ to highlight the climber's movements as they rappel down a crag.
+This repository showcases my project using Facebook's Segment Anything Model 2 (SAM2) to track a rock climber in video footage. SAM2 is a cutting edge model for segmenting objects in both video and image data. In this project, I explored its capabilities by creating spatio-temporal masks, or ‘masklets,’ to highlight the climber's movements as he rappels down a crag.
 
 ## Project Overview
 - **Model Used:** Facebook’s Segment Anything Model 2 (SAM2)
